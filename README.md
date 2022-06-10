@@ -1,10 +1,13 @@
 <p align="center">
   <a href="https://github.com/devcui/SimpleBlog">
-    <h1>LOGO is LOGO</h1> 
+    <img width="100" src="./Assets/Logo.svg"/>
   </a>
 </p>
 
----
+<h1 align="center">
+SimpleBlog
+</h1>
+
 
 
 <div align="center">
@@ -13,7 +16,6 @@ Simple blog is a simple blog
 
 </div>
 
----
 
 - Auth
   - [RFC 6749 - OAuth 2.0](Posts/Auth/RFC6749OAUTH.md)
