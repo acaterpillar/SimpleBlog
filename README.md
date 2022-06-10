@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/devcui/SimpleBlog">
-    <img width="100" src="./Assets/Logo.svg"/>
+    <img width="300" src="./Assets/Logo.svg"/>
   </a>
 </p>
 
