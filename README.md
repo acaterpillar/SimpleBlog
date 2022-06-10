@@ -22,13 +22,13 @@ Simple blog is a simple blog
   
 - Angular
   
-  - [关于微前端实现原理与ngx-planet(一)](Posts/Angular/NgxPlanet1.md)
+  - [关于微前端实现原理与ngx-planet(一)](Posts/Angular/NgxPlanet-1.md)
   
-  - [关于微前端实现原理与ngx-planet(二)](Posts/Angular/NgxPlanet2.md)
+  - [关于微前端实现原理与ngx-planet(二)](Posts/Angular/NgxPlanet-2.md)
   
-  - [关于微前端实现原理与ngx-planet(三)](Posts/Angular/NgxPlanet3.md)
+  - [关于微前端实现原理与ngx-planet(三)](Posts/Angular/NgxPlanet-3.md)
   
-  - [关于微前端实现原理与ngx-planet(四)](Posts/Angular/NgxPlanet4.md)
+  - [关于微前端实现原理与ngx-planet(四)](Posts/Angular/NgxPlanet-4.md)
 
 - Article
   
@@ -36,5 +36,5 @@ Simple blog is a simple blog
 
 - WSL
   
-  - [WSL development environment under Win11 - 1](Posts/WSL2/WSL-01.md)
-  - [WSL development environment under Win11 - 2](Posts/WSL2/WSL-02.md)
+  - [WSL development environment under Win11 - 1](Posts/WSL2/WSL-1.md)
+  - [WSL development environment under Win11 - 2](Posts/WSL2/WSL-2.md)
